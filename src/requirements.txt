@@ -1,0 +1,12 @@
+networkx
+pandas
+statsmodels
+tensorflow
+numpy
+matplotlib
+scipy
+xgboost
+Keras
+scikit_learn
+sqlalchemy
+gensim
